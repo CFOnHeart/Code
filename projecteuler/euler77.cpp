@@ -5,8 +5,8 @@ using namespace std;
 #define MAXN 10000
 namespace euler77{
     int pri[MAXN+5] , tot , vis[MAXN+5];
-    int ways[1000+5][200]; //ways[i][j]表示数字i可以有多少种方法表示成质数相加且末尾最小的数字是pri[j]
-    int sum[1000+5][200]; //sum[i][j] 就是将ways[i][j]+ways[i][j+1]+ways[i][j+2]+...+ways[i][maxn]
+    int ways[1000+5][200]; //ways[i][j]presents how many ways can constitute number i with the smallest prime number pri[j]
+    int sum[1000+5][200]; //sum[i][j] = ways[i][j]+ways[i][j+1]+ways[i][j+2]+...+ways[i][maxn]
     void init()
     {
         memset(vis , 0 , sizeof(vis)); tot =0 ;
