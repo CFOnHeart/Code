@@ -19,6 +19,6 @@ namespace euler114{
 }
 int main()
 {
-    cout<<euler114::solve(50)<<endl;
+    cout<<euler114::solve(29)<<endl;
     return 0;
 }

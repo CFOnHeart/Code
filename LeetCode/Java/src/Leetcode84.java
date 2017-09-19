@@ -5,7 +5,7 @@ public class Leetcode84 {
     class Tuple{
         int X;
         int Y;
-        public Tuple(int X , int Y){
+        Tuple(int X , int Y){
             this.X = X;
             this.Y = Y;
         }

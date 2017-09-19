@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode84.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode84.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode84.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="101">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode85.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode85.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -55,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Leetcode126.java" />
         <option value="$PROJECT_DIR$/src/Leetcode84.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode85.java" />
       </list>
     </option>
   </component>
@@ -123,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode84">
+  <component name="RunManager" selected="Application.Leetcode85">
     <configuration default="false" name="Leetcode126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Leetcode126" />
@@ -142,6 +153,21 @@
     <configuration default="false" name="Leetcode84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Leetcode84" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leetcode85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode85" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -358,14 +384,16 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Leetcode126" />
       <item index="1" class="java.lang.String" itemvalue="Application.Leetcode84" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Leetcode85" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Leetcode84" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Leetcode126" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Leetcode85" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Leetcode84" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Leetcode126" />
       </list>
     </recent_temporary>
   </component>
@@ -441,8 +469,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode84.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="101">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode85.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding />
         </state>
       </provider>
